@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>LINKS</title>
+    <style>
+
+        /*
+        # para  id
+        . para class
+        : para pseudo-class
+        :: para pseudo-element
+        >  para clildren (filhos)
+
+        
+        
+        */
+
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+        a {
+            color: red;
+            text-decoration: none;
+            font-weight: bold;
+        }
+
+        a:visited {
+            color: darkred; /* par quando ja foi visitada*/
+        }
+
+        a:hover {
+            color: black;/* para quando passar o rato*/
+            text-decoration: underline;
+
+        }
+        
+        a:active {
+            color:yellow /*quando estiver ativo*/
+        }
+
+a::after { 
+    content:'[link]';
+    text-decoration: none; 
+    font-weight: normal;
+    color: darkgray;
+
+    /* a::after  servi para fazer indicaçao de um link ou dicionar coisas* isso chamarmos de
+    pseudoelementos, servi tanto para id ou class personalisados
+    */
+}
+
+    </style>
+</head>
+<body>
+    <h1>Persolalizando Links </h1>
+    <ul>
+        <li><a href="https://www.youtube.com/" target="_blank" rel="noopener noreferrer">youtube</a></li>
+        <li> <a href="https://www.netflix.com/">netflix</a></li>
+        <li> <a href="https://www.anitube.site/">anitube</a></li>
+    </ul>
+</body>
+</html>

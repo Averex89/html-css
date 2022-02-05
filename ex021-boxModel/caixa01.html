@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Modelo de Caixa</title>
+    <style>
+        h1 {/* box-level,  o display por padrao é block*/
+            /*padding , border , margin sao propiedades que podemos aplicar dentro de cada tags (selectores)*/
+
+            background-color: aquamarine;
+            height: 300px;
+            width: 300px;
+            border-width: 10px;
+            border-style: solid;
+            border-color: darkgray;
+
+            padding-top: 10px;
+            padding-right: 10px;
+            padding-bottom: 10px;
+            padding-left: 10px;
+            /* codigo simplificado> padding: 10px;*/
+
+
+            margin-top: 20px;
+            margin-right: 20px;
+            margin-bottom: 40px;
+            margin-left: 20px;
+            /* codigo simplificado> 20px 20px 40px 20px;*/
+
+            outline-width: 5px; /* outline é calculado pela margin */
+            outline-style: dashed;
+            outline-color: red;
+            /*codigo simplificado> outline: 5px dashed red; */
+
+           /*  margin: auto; > para centralizar qualquer tags (selector) para centro da pagina */ 
+
+            text-align: center;
+
+        }
+
+        a{/*inline-level o display po padrao é inline*/
+            border-width: 10px;
+            border-style: solid;
+            border-color: red;
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Exemplo de caixa box-level</h1>
+    <p>Paragrafos tambem sao exemplos de box-level, mas os <a href="#">links sao exemplos de caixas inline-level</a> vamos ver como isso funciona.</p>
+</body>
+</html>

@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Midias em HTML5</title>
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+</head>
+<body>
+    <h1>Imagem dinamica</h1>
+    <p>Testa esta pagina em varios dispositivos diferentes ou simplesmente diminua ou aumenta o sue navegador</p>
+    <picture>
+        <source media="(max-width:750px )" srcset="imagens/foto-p.jpg" type="image/jpg"><!-- em vez de usar min-width melhor seria o max--><!--3-->
+        <source media="(max-width: 1050px )" srcset="imagens/foto-m.jpg" type="image/jpg"><!--2-->
+        <img src="imagens/foto-g.jpg" alt="Imagem Flexivel"><!--1-->
+    </picture>
+
+    <h1>Audio</h1>
+    <p>Reproduzir audio em HTML5</p>
+    <audio src="musicas/audiojazzteste.mp3" controls ></audio>
+    <p>OU TAMBEM COMO</p>
+    <audio preload="metadata" controls>
+        <source src="musicas/audiojazzteste.mp3" type="audio/mpeg">
+        <source src="musicas/audiojazzteste.ogg" type="audio/ogg">
+        <source src="musicas/audiojazzteste.wav" type="audio/wav">
+        <p>Infelismente o seu navegador nao conseguir reproduzir a midia</p>
+    </audio>
+
+    <h1>Videos local</h1>
+        <p>Esta video esta hospedado no meu propio servidor</p>
+        <video src="videos/videoteste.m4v" height="400" controls></video>
+        <p>OU MAS TAMBEM COMO</p>
+        <video  height="400" controls poster="imagens/imgexemplovideopreview.jpg"><!--Usarmos poster para inserir imagem de preview do video-->
+            <source src="videos/videoteste.m4v" type="video/mp4">
+            <p>Infelismente o seu navegador nao conseguir reproduzir a midia</p>
+        </video>
+    <h1> Inserir videos da web</h1>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/iWb1tuszDBs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+    <iframe src="https://player.vimeo.com/video/256551904?h=a1bb472dba&color=f9fdff" width="560" height="315" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen></iframe>
+    
+    
+</body>
+</html>

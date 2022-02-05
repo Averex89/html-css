@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fontes em CSS</title>
+    <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        /*
+        Medidas Absolutas
+        cm , mm, in , px , pt , pc
+        
+        Medidas Relativas
+        em , ex , rem , vw , vh, %
+        
+        */
+        font-size: 1em; /*fonte padrao 16 px é igual a 1em recomendado em trabalhar em 1em*/
+        }
+        p {
+            font-weight:normal;/*usamos para definir a espesura ou o peso da fonte*/
+            font-style: italic;/* estlo de fonte italico */
+         /* text-decoration: underline; para sublinhar um texto ou outras com linhas*/
+        }
+
+        h1 {
+            font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+            font-weight: bolder;
+            font-size: 3em;
+            font-style: italic;
+            /*
+            Shorthand font ou "codigo resumido"
+            a ordem a respeitar
+            - font-style -> font-weigth -> font-size -> font-family
+
+            ou seja a definiçao resumida para h1 seria neste caso:
+
+            font: italic bolder 3em  'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+
+            */
+        }
+
+        h2 {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <h1>Trabalhando com fontes</h1>
+    <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Inventore doloribus possimus magnam amet reiciendis ad. Quod cupiditate adipisci, similique quia tempore laborum sapiente tenetur repellat ad deserunt! Temporibus, dolorem maxime.</p>
+    <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Consequuntur numquam repellendus distinctio blanditiis? Necessitatibus iusto deleniti blanditiis totam odio quibusdam soluta illum voluptatem fugit atque culpa asperiores, explicabo provident similique. Lorem ipsum dolor sit amet consectetur adipisicing elit. Maiores, illum facilis repellendus vel cumque minus quia quibusdam, voluptatum pariatur sint fuga. Fugiat autem est dolore dolor facere dolorum explicabo dicta?</p>
+    <h2>Subtitulo do Exercicio</h2>
+    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa quos, quis tempore nesciunt earum voluptatum consectetur nisi totam aperiam ipsum repellat alias dolore voluptatem doloribus ad libero assumenda cupiditate laudantium.</p>
+</body>
+</html>

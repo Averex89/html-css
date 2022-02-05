@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Listas</title>
+    <link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
+</head>
+<body>
+
+    <h1>Trabalhando com listas</h1>
+    <h2>Listas Ordenadas</h2>
+        <ol type="1"> <!-- pode transformar em letras e entre outas  ao envez do numero  com o atributo o (type= "1"  e tabem podemos adicionar um start= "4" para começar apartir de 4 -->
+        <li>Acordar</li>
+        <li>Escovar os Dentes</li>
+        <li>Tomar Café</li>
+    </ol>
+    <h2>Listas nao Ordenadas</h2>
+     <ul><!-- Ponemos adicionar atributo  do type ex ( disc, circule square)-->
+         <li>Pao</li>
+         <li>Leite</li>
+         <li>manteiga</li>
+        </ul>
+
+        <h2>Junçao entre Listas</h2><!-- Criando uma aninhamento-->
+        <ol>
+            <li>Minhas Linguagens Antigas</li>
+            <ol type="a">
+                <li>Clipper</li>
+                <li>Visual Basic</li>
+                <li>Fortran</li>
+                <li>Delphi</li>
+            </ol>
+            <li>Novas</li>
+            <ol type="a" start="5"> <!--para continuar a contagem apartir do 5 elmento que é a letra e -->
+                <li>PHP</li>
+                <li>python</li>
+                <li>JavaScript</li>
+                <li>Kotlin</li>
+            </ol>
+
+        </ol>
+        <h2>Meus Jogos favoritos</h2>
+        <ol>
+            <li>NINTENDO</li>
+            <ul type="square">
+                <li>Super Mario</li>
+            </ul>
+            <li>Sega</li>
+            <ul type="disc">
+                <li>stret fither</li>
+            </ul>
+            <li>Playstation</li>
+            <ul>
+                <li>Fifa</li>
+            </ul>
+
+        </ol>
+        <h2>Lista de definiçoes</h2>
+        <dl>
+            <dt>HTML</dt><!-- Termo-->
+            <dd>Liguagem de marcaçao para criaçao de conteudo de um site.</dd><!--Descriçao-->
+            <dt>CSS</dt>
+            <dd>Liguagem de marcaçao para criaçao do designer de um site.</dd>
+            <dt> JavaScript</dd>
+            <dd>Liguagem de programaçao para a criarçao de interatividade de um site</dd>
+        </dl>
+</body>
+</html>
