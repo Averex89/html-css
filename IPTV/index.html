@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
+    <style>
+        div.tv {
+            width: 80%;
+            max-width: 640px;
+            margin: auto;
+
+        }
+        
+    </style>
+
+</head>
+<body>
+    
+    
+        <div class="tv">
+            <video id='iptv'  class="video-js vjs-default-skin" controls preload="auto" width="640" height="264" data-setup='{"fluid": true}'>
+                <source src="http://192.168.1.39:25461/live/kjOKrF18zy/W4jtKF3nHG/3135.m3u8" type="application/x-mpegURL">
+            </video>
+        </div>
+
+
+       
+<!-- JS code -->
+<!-- If you'd like to support IE8 (for Video.js versions prior to v7) -->
+<script src="https://vjs.zencdn.net/ie8/ie8-version/videojs-ie8.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/videojs-contrib-hls/5.14.1/videojs-contrib-hls.js"></script>
+<script src="https://vjs.zencdn.net/7.2.3/video.js"></script>
+
+
+<script> 
+var player = videojs('iptv'); player.play();
+
+</script>
+</body>
+</html>
