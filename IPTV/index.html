@@ -8,22 +8,31 @@
     <link href="https://vjs.zencdn.net/7.2.3/video-js.css" rel="stylesheet">
     <style>
         div.tv {
-            width: 80%;
-            max-width: 640px;
+            max-width: 600px;
+            height: auto;
             margin: auto;
-
+            padding-top: 25px;
+            
         }
         
+        div.imgtv-background {
+            background-color: aqua;
+            margin: auto;
+            width: 650px;
+            height: 400px;
+        }
     </style>
 
 </head>
 <body>
     
     
-        <div class="tv">
-            <video id='iptv'  class="video-js vjs-default-skin" controls preload="auto" width="640" height="264" data-setup='{"fluid": true}'>
-                <source src="http://192.168.1.39:25461/live/kjOKrF18zy/W4jtKF3nHG/3135.m3u8" type="application/x-mpegURL">
-            </video>
+        <div class="imgtv-background">
+            <div class="tv">
+                <video id='iptv' class="video-js vjs-default-skin" controls preload="auto" data-setup='{"fluid": true}'>
+                    <source src="http://192.168.1.39:25461/live/kjOKrF18zy/W4jtKF3nHG/3135.m3u8" type="application/x-mpegURL">
+                </video>
+            </div>
         </div>
 
 
