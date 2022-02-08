@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-PT">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Fundo Fixo</title>
+    <style>
+
+        body { /*melhor soluçao para dimensao do background*/
+            height: 100vh;
+            background-color: black;
+            background-image: url('imagens/wallpaper002.jpg');
+            background-position: center top;
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-attachment:fixed;
+
+
+            /* Shorthand background
+            
+                sequencia:
+
+                color > image > position > repeat > attachement
+
+                background size tem que ser aplicado aparte
+
+
+                neste caso seria:
+                
+                background: black url('imagens/wallpaper002.jpg') center center no-repeat fixed;
+                background-size:cover;
+
+            */
+        
+        }
+
+        main {
+            background-color:  white;
+            max-width: 400px;
+            padding: 10px;
+            margin: auto;
+            border: 2px solid darkblue;
+            border-radius: 15px;
+
+        }
+
+
+
+    </style>
+</head>
+<body>
+    
+    <main>
+        <h1>Teste de Imagem de Fundo</h1>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat molestias ea vel? Totam dignissimos, temporibus quisquam molestias porro perspiciatis dolores laudantium harum recusandae adipisci optio similique fuga, doloremque culpa assumenda. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ipsum rem unde nobis maiores repellat quibusdam nemo, corporis magni! Reiciendis praesentium et ullam dolorum, placeat accusantium dolor quo necessitatibus exercitationem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur, nulla blanditiis cupiditate similique delectus. Libero quidem, ad dolores, distinctio itaque sunt expedita facere vel suscipit voluptas ipsam delectus harum.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat molestias ea vel? Totam dignissimos, temporibus quisquam molestias porro perspiciatis dolores laudantium harum recusandae adipisci optio similique fuga, doloremque culpa assumenda. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ipsum rem unde nobis maiores repellat quibusdam nemo, corporis magni! Reiciendis praesentium et ullam dolorum, placeat accusantium dolor quo necessitatibus exercitationem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur, nulla blanditiis cupiditate similique delectus. Libero quidem, ad dolores, distinctio itaque sunt expedita facere vel suscipit voluptas ipsam delectus harum.</p>
+
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugiat molestias ea vel? Totam dignissimos, temporibus quisquam molestias porro perspiciatis dolores laudantium harum recusandae adipisci optio similique fuga, doloremque culpa assumenda. Lorem ipsum dolor sit amet consectetur adipisicing elit. Reprehenderit ipsum rem unde nobis maiores repellat quibusdam nemo, corporis magni! Reiciendis praesentium et ullam dolorum, placeat accusantium dolor quo necessitatibus exercitationem. Lorem, ipsum dolor sit amet consectetur adipisicing elit. Iusto consequatur, nulla blanditiis cupiditate similique delectus. Libero quidem, ad dolores, distinctio itaque sunt expedita facere vel suscipit voluptas ipsam delectus harum.</p>
+    </main>
+
+</body>
+</html>
