@@ -1,0 +1,303 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="0b0bae8a1e00161439f69add160c9194",11
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/179178251?ticket=EEF183AF4B8AE232E3B06729D8C91B765DC7FD02&profile=pass
+#EXTINF:-1 tvg-id="97641b59a37aef707e17edde2e7402da",24 Kitchen HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1494967447?ticket=B581A7E4FF585A2F455E7AF358155852E47E3473&profile=pass
+#EXTINF:-1 tvg-id="bf41a8012e17507db7f65f41693ea436",A Bola TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/27804095?ticket=CCE763F338A015A847E3D268233FEAA623250754&profile=pass
+#EXTINF:-1 tvg-id="50ff0c218f4b4351aaf1dedfae02141a",Afro Music
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/554499920?ticket=D762AE0DD18B2A2CD6014F08561E1C2D4109CC7E&profile=pass
+#EXTINF:-1 tvg-id="8f5f286d7bc544711d0b40e4c4474eaa",AMC
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1831362447?ticket=CF8D45863EFB26F390235BADCE6286DDA929FBD4&profile=pass
+#EXTINF:-1 tvg-id="ce025b6b75c7a2f37ee48ff7261458a9",AMC HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1801126606?ticket=7AB413A8A606DDD6DF4CB25D70C84FB3DE18EFAB&profile=pass
+#EXTINF:-1 tvg-id="10819b851622219d38a6bbdca58e8e98",ARTV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/94077200?ticket=CD2B59AC68B25FD658BC5A33613181E8F290E8AB&profile=pass
+#EXTINF:-1 tvg-id="e5ba2ace53086ca2cc25db22dec2be55",ARTV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1311423205?ticket=940B989CA2D210ABA2A17F911557A00265CE23A7&profile=pass
+#EXTINF:-1 tvg-id="9e060fff1451cf30131ecabf5c3a8eba",AXN HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2131691166?ticket=B657F536DC435305A4D124E03CC137938F802083&profile=pass
+#EXTINF:-1 tvg-id="32f69eca369abf7040ee7e06a8a7d023",AXN Movies HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1251931698?ticket=A4759663E81C17688DD5B74B19FEE90B827F2AEB&profile=pass
+#EXTINF:-1 tvg-id="c09b5b8d85a47a97ebbf71d857c7c43b",AXN White HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/224107456?ticket=2952F44A2E16EDA37A5F64277980DE5BA56231E0&profile=pass
+#EXTINF:-1 tvg-id="46f6010c0701666ef85f29462aa3eb66",Baby TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/201455174?ticket=EF694F77448D39A9BB7DF2F31932877364D6BCB0&profile=pass
+#EXTINF:-1 tvg-id="d295d488d6a25f9877760adcab90e900",BBC Entertainment
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/148149714?ticket=B44F6B5783C6F6DADDC6FA4EED0FBFBBE1E5BCAD&profile=pass
+#EXTINF:-1 tvg-id="64a0d6f349e0a53641d420b6d94e74c5",BBC World News
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1943445604?ticket=8A3327FBC99681B44ABB3D5A161A0FCF2BF23071&profile=pass
+#EXTINF:-1 tvg-id="0af19d33732bbd03e461b1e2eb3afabe",Biggs
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/865988874?ticket=ED055F5CB8427C5B7D87C3DCA45F6205AAFD7A46&profile=pass
+#EXTINF:-1 tvg-id="f9e46b4d1d433357708f6f7198d69160",Blaze
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1298916601?ticket=F2F9D10A0392ED062F93B276E28F69F41D0CFF9E&profile=pass
+#EXTINF:-1 tvg-id="3127d30fc877ab9e1488a4418d85b06c",Bloomberg
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/265496369?ticket=64A312FC8EEC9922D83B6D5BC98FB421BD333917&profile=pass
+#EXTINF:-1 tvg-id="6f8b7c5e5cd4b4441a554e45dac45647",BTV 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1585220463?ticket=374790925674AAAC36591A6EB4A9C5464FE281A8&profile=pass
+#EXTINF:-1 tvg-id="52fc92b828fa2d55b8b1121b1ee648cd",BTV HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/949156946?ticket=5A620C7A4BFFE4572C48EC170DB9C9C04FC066E4&profile=pass
+#EXTINF:-1 tvg-id="09a95acde29fa7b9a4a6753183ae0967",BTV1
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1297787145?ticket=E3CFDB2B5CE83F183DD679313A4D4E26C10DD528&profile=pass
+#EXTINF:-1 tvg-id="5da5589f1d456dcd6c630d03c8b73f3c",Canal 11 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/525903197?ticket=3FEFCAEE5383C6DF662D2CE7C65DCAF1965BD270&profile=pass
+#EXTINF:-1 tvg-id="ba2981777ac7e2e5f045b873ee1277d8",Canal Hist�ria
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2004953530?ticket=791A0B374E013BD03F708A597DE12922113862A0&profile=pass
+#EXTINF:-1 tvg-id="65f8d90054b3262385235db0a066ed93",Canal Panda
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/14284901?ticket=0EDDF3B4587EDD60373322401A5967B33FCB2B95&profile=pass
+#EXTINF:-1 tvg-id="0adb06f1aa4d96c1e3da62f649bc2501",Canal Q
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1896274698?ticket=2B329D2372F79F722D79A0DAA423252CC6FCE44B&profile=pass
+#EXTINF:-1 tvg-id="6b4d601f2071ead95113b6bd91bb5e2b",Cartoon Network
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/526404971?ticket=402D8C6937393BBD0FDDD08DD491E9DF37DA0B3E&profile=pass
+#EXTINF:-1 tvg-id="607bac2a4887a2f84e0dbdaca47b2672",Casa e Cozinha HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/715946848?ticket=1A80D341E49D498C02CE4137A7CBC7F2E478081A&profile=pass
+#EXTINF:-1 tvg-id="67cb3795035ae7eb232b1b0f2ae17cce",Ca�a e Pesca
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/355978087?ticket=23F2F884C950ADDBFE3376F6E94B9AE453727485&profile=pass
+#EXTINF:-1 tvg-id="623c4438d4fa391c28de7088a635b8c6",Ca�avision
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/943996002?ticket=6772CB92DC9A715EE7DE0A7566CAC54BB7EA5ED9&profile=pass
+#EXTINF:-1 tvg-id="3968107bdded0c8373e99aa0223a55b1",CBS Reality
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2064672825?ticket=F292666998196BCB4411DF004FCD6CB728C0D041&profile=pass
+#EXTINF:-1 tvg-id="4089ddd83a1aa5f551fb34b87db77551",Channel 1 Russia
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1490913600?ticket=3F2C28735D47C9C1C4A6373823DEFE5FFEA6DD8B&profile=pass
+#EXTINF:-1 tvg-id="4dea9366782a8de72ba5c0fc5ab4d221",Cinemundo
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1720969805?ticket=BADAB4AC3EB4872CBDA7F7D48C167CE1B3902F4B&profile=pass
+#EXTINF:-1 tvg-id="8f17868a39c769c840186f54836e7886",CMTV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/176560015?ticket=A135BCC38DC6216725F09C3195138A1B59E73A1B&profile=pass
+#EXTINF:-1 tvg-id="5a48234ba32bea59deef556170da41a0",CNBC
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1260603482?ticket=9AFB354E751C25CD6F75815F15DC651EAF0691D7&profile=pass
+#EXTINF:-1 tvg-id="1c08262cba982a401ceec08fe56c248b",CNN Portugal
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/740689948?ticket=8E84BA85152E5DD32AEACA7A1C8745A1E1150335&profile=pass
+#EXTINF:-1 tvg-id="5d76f21eb4d5cf745450afbade5c6d36",Crime+Investigation
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/519206493?ticket=4579EEC1E62610F41C3C8A4AFD819CACE4F6585A&profile=pass
+#EXTINF:-1 tvg-id="940fba6cd4455037177e3ebe6fb796be",Deutsche Welle (A)
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1824133012?ticket=7F2231D658C581005F7943FEBF36D6B34C52773D&profile=pass
+#EXTINF:-1 tvg-id="4a709cb72acec14bf0f084b8a7cb8b8e",Discovery Channel
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/932999242?ticket=5D7DC3025ACCCE7715C12367FF8679C094E28A97&profile=pass
+#EXTINF:-1 tvg-id="370328d927df8fb104f3e1ccba975aa9",Discovery HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1495794487?ticket=456C861C20069DF97F37C0529614B566524DED2E&profile=pass
+#EXTINF:-1 tvg-id="2d0c799a82748be4443c781518b25363",Disney Channel
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/444140589?ticket=7357BC627596174370FFD3B7EE8E6F09BBDE5F0F&profile=pass
+#EXTINF:-1 tvg-id="d8667df5a8ed68ea93566d7fb43ec14e",Disney Junior
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1971152600?ticket=FB02B8AE8C54075B3731B452EEDE28020EAE0F8E&profile=pass
+#EXTINF:-1 tvg-id="79e95606a6e2f1f00af3bf70d372455b",E! Entertainment
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/106359161?ticket=C3DA6DA4563E4AC67362EBC47D1D4572B428D34E&profile=pass
+#EXTINF:-1 tvg-id="39ab39080d40b99a66b5f551894ca7f8",Eleven 1
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/137997113?ticket=40CF32E92C5D1B6FE4DFFA5F96FC98441949EC2C&profile=pass
+#EXTINF:-1 tvg-id="5385fad71af442d8e7035a0460778fb4",Eleven 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1476035923?ticket=0FADFD57C9368AC889C08B90621B0B7FBC7B588C&profile=pass
+#EXTINF:-1 tvg-id="7fa9d0212c0629d9ff06ac1c0c5f8ea4",Eleven 2
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/567323007?ticket=D63E91254D365DEEC8A26441CAF6330534B2C17F&profile=pass
+#EXTINF:-1 tvg-id="ea9811543423c921262cb73e7aacadff",Eleven 2 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1410439402?ticket=566A248D36062F58FD18E294EE543F3A01AE4B88&profile=pass
+#EXTINF:-1 tvg-id="b126ee09b59507c8379fcdf319554c51",Eleven 3
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/166602417?ticket=C60CCEA1807CD65E53C4CAC56410559156BF01D9&profile=pass
+#EXTINF:-1 tvg-id="6507ec48422e397a74b78d2b17d98dc3",Eleven 4
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1223427941?ticket=CBB7999445EC8DB632CA6EBE58CADC8198915062&profile=pass
+#EXTINF:-1 tvg-id="08c8a5de2413bcad9a39041526bdad1d",Eleven 5
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1587922952?ticket=8F6620C9539A0B813EA4B3E3ACB044E57F65A579&profile=pass
+#EXTINF:-1 tvg-id="b6b4c905169c40e7cc3ce8edc4ee9660",Eleven 6
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/97105078?ticket=2008BB36BC95CA2A471F51D273921137D73ED594&profile=pass
+#EXTINF:-1 tvg-id="643be07ba53f0bb8b4aa9ff4d73bf382",Euronews
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2078292836?ticket=0D7C2D010F756F669181AC201A02BDD21AC4794B&profile=pass
+#EXTINF:-1 tvg-id="97d0c8f58700472fb2bd3b050080418c",Eurosport 1
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1976094871?ticket=9C3015EBE0837A950EF04B06FFF8247F3667E27B&profile=pass
+#EXTINF:-1 tvg-id="01a325a23c504b50ddc645e15d06df94",Eurosport 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/572891905?ticket=628A2B170EDC59640DA3BD622F3DCD4D3F5B53EF&profile=pass
+#EXTINF:-1 tvg-id="411d1f418e32f1d4142cac05cad3b704",Eurosport 2
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1092558145?ticket=082860BA280C8CA0E5AD2DFCFD91448BD57A69E7&profile=pass
+#EXTINF:-1 tvg-id="2fe3071bb211e57a1c75ef31bfbc3a4e",FOX Comedy
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/453501743?ticket=030BB741679439D1272A4A5667B8ED332D15D637&profile=pass
+#EXTINF:-1 tvg-id="8680b691ac1acef5b4049db952f5970e",FOX Crime HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/297173126?ticket=3B040B42E4836FFBA65E0F33823A0F8CAE89877D&profile=pass
+#EXTINF:-1 tvg-id="4e43352bf909cbf6b514f90dd2ce552c",FOX HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/724910926?ticket=C9198D53AD165D37E22AE3A5962F47170D13AB4E&profile=pass
+#EXTINF:-1 tvg-id="852726d8abc67758fe7487adf3c87dd4",FOX Life HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1478895493?ticket=2879ACAF7E72D9B17EB5E40142237EE90EEB0F53&profile=pass
+#EXTINF:-1 tvg-id="bc34c21284c21c590926407320aaf04b",FOX Movies
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/314717372?ticket=B4C6F469E18F7560B9E3C4989F69D634FC95CC19&profile=pass
+#EXTINF:-1 tvg-id="d9fa4bcb8bd7b82a73708a2a51302205",France 24
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1263270617?ticket=99A68C0F5430DFC28CA49E403E6970517CDDAA9D&profile=pass
+#EXTINF:-1 tvg-id="705da2b7c418e2023267d7e6f4c8d0ab",FTV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/933387632?ticket=4DF17B8B493B404395D5E2E416FEE249F7EB9483&profile=pass
+#EXTINF:-1 tvg-id="5baf854c24a408114ce0593bde43d74c",Fuel TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1283829595?ticket=2EF75F1AA2EDA8D4B05A3AE664071E6DCA6EC79B&profile=pass
+#EXTINF:-1 tvg-id="e812310a66bd667322529a31173eb995",Globo
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/170988264?ticket=8DB443A576652C82B4EFA1A4076A47FEB8ED90B1&profile=pass
+#EXTINF:-1 tvg-id="f9225ea8faef8fac13cbcd7ad35bce73",Globo News
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/677257977?ticket=34BA01C9AFEB76171AE613623FFBC749EB4E90C0&profile=pass
+#EXTINF:-1 tvg-id="7b4f842cdc72d6bce36c40fbce34f904",Globo Now
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/746868603?ticket=B7201CB0BDCC751F13DE5E7165D705467276D876&profile=pass
+#EXTINF:-1 tvg-id="fb527eb80b81c69a756f0de0f420668b",Hist�ria
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/947802875?ticket=76D7CEC1A28FC05A58A656A5F22782BC7DEE0D7E&profile=pass
+#EXTINF:-1 tvg-id="95a168efa6c474006652c954202fa9e7",Hollywood
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1869128085?ticket=01C895FBD0F09263B19F4E67BA5165FF39DFB979&profile=pass
+#EXTINF:-1 tvg-id="4b0c56e7d7208bed25a572f5a0843b58",Hollywood HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1733692491?ticket=EF7F647EED0E2D0BF5712EACFEC3A42F516027AB&profile=pass
+#EXTINF:-1 tvg-id="30e5a707de890dabd8ac0e4ed310d627",Hot
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/128443696?ticket=8F7CF8A0EE3307F4377FC2CA3E8845497AF6BB39&profile=pass
+#EXTINF:-1 tvg-id="694f324fb1fbe011ee829aa873f0b5b3",HOT
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1328697193?ticket=928E213A9A579F3E10DC6808BABE2206145225E7&profile=pass
+#EXTINF:-1 tvg-id="866f18b7e396416434d921cb128f94be",ID Investigation Discovery
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/924348294?ticket=A6B1F9115D38B19A596D852FFC08640B4A9CB757&profile=pass
+#EXTINF:-1 tvg-id="7d4a40dea5050aba8f3159c5b5643ccb",Jim Jam
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1581271677?ticket=5B7B2B4301AF1694F424190011743C876776389A&profile=pass
+#EXTINF:-1 tvg-id="76c081c4154e7c80373db199069715f2",Kuriakos TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1149354102?ticket=3C0B1F5A6DC57F14E67F96E098C072340AF4F2CF&profile=pass
+#EXTINF:-1 tvg-id="bf8e86fd4140991c243e740677dd8278",Kuriakos TV HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2105970367?ticket=294BA169A695F5BE076420DB8ABA3462DB5CF515&profile=pass
+#EXTINF:-1 tvg-id="55af4b894723f8b52273db2502874577",Lolly Kids
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/155955029?ticket=6B9BC429EBDC56705CF58E073FD55DF273880629&profile=pass
+#EXTINF:-1 tvg-id="00780fe38a1678e7f8fb4a27dbf59111",MCM Pop
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1661958144?ticket=5EC40B824AECD2C02FDDEE08535E938ACB45F099&profile=pass
+#EXTINF:-1 tvg-id="312a91613ce795577b3c1abbcabd3bdd",Mezzo
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1636903473?ticket=2D2F10C25E96BFA3103C4026593FAB6BEAE93BA0&profile=pass
+#EXTINF:-1 tvg-id="e3895fb3c5604390d7278b0b670a8812",Motorvision
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/861899235?ticket=B61075F9EBD6283BDD45689EC246F5F4F30B3833&profile=pass
+#EXTINF:-1 tvg-id="c545d75b153cf16359fcbbcf58ce4603",MTV 00s
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1540834757?ticket=EFDC0AA15CED95A7681A1D749CB3F326B632F302&profile=pass
+#EXTINF:-1 tvg-id="e934450ef24aa4c5f525282b16de6115",MTV Portugal
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/239416553?ticket=25474FE5D3F693A075D56B41E6846EED71DE8E5A&profile=pass
+#EXTINF:-1 tvg-id="6219762e50962c7706c02bf014a90df0",MTV Portugal
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/779491682?ticket=76B831FB91109F0EAD07EA6E1DBF7B4E6A46690B&profile=pass
+#EXTINF:-1 tvg-id="20327bb332c19edf27cefb0e214303b9",National Geographic HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/863711776?ticket=98809BE61DA35DD2253D658583F4BAC4EAB1AD46&profile=pass
+#EXTINF:-1 tvg-id="4190fa13ccb246b68e752237841b2367",National Geographic WILD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/335188033?ticket=B7C7BDD8FB860E88D99320FB3EB7660F27113AC6&profile=pass
+#EXTINF:-1 tvg-id="cfc5d2f2bb1e2c6700b0bcd9fafc13b6",NBA TV HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1926415823?ticket=AE5CD1D9FFE150DE4A859D73709413109B7B8F6F&profile=pass
+#EXTINF:-1 tvg-id="bbe4b3c8270f0098a6086bcabe078dbb",NHK World Japan
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1219749051?ticket=760E4DF9E73DAF1F5C33D364A4366A95B65C16EF&profile=pass
+#EXTINF:-1 tvg-id="4e4fbe0e0f5c13910ef5896eaca48914",Nick Jr.
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/247353166?ticket=6E6BA5DF7CD84C4143D48133E464EB4E6B1B3C4C&profile=pass
+#EXTINF:-1 tvg-id="63ebdb13284714b2dedba99bbf031796",Nickelodeon
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/333179747?ticket=5D68D387BF072B62E6D7FDE8CCBFBEC27D45A3EE&profile=pass
+#EXTINF:-1 tvg-id="ea784bf243665be680e8dd86b364b019",NOS Studios HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1917548778?ticket=651E1785967AF2404ACD6B4CC2EEE24DB1D1336D&profile=pass
+#EXTINF:-1 tvg-id="7574e0e483b672fe008f25b36827321c",Odisseia
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1692431477?ticket=E1FF556A8FA6F9257F9EF32181872E4F5256FF0B&profile=pass
+#EXTINF:-1 tvg-id="d544aaa2b8114cb15b807cd77f030985",Panda Kids
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/581584085?ticket=1BFB21AEC278D8DD7725C9238B4F446FCD105FFC&profile=pass
+#EXTINF:-1 tvg-id="b2c42d5ff03c670faae6df06feda6972",PFC
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1596834994?ticket=72FC4CA4074CC91E7FA76EF04F72D461D79AA4D8&profile=pass
+#EXTINF:-1 tvg-id="5f9cdfa12ec7918793508b21a8a7d01a",Playboy TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/568302687?ticket=B767AFD9DD8A55459BB489D4337B0CB605EE862C&profile=pass
+#EXTINF:-1 tvg-id="64375c2507aa3a583999ef70c472ee89",Porto Canal
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/626800484?ticket=86B11EBE34F9BEB42C078DB580D77B37AB79B74B&profile=pass
+#EXTINF:-1 tvg-id="54be9c0ef7666bf1197b2d9737764c73",RTP 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/245153364?ticket=9FDF6B7113C49A3C564C917FF797857A4CEF81D0&profile=pass
+#EXTINF:-1 tvg-id="291c66427216dec9342cd338cbed073d",RTP 2 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1113988137?ticket=43277A952B597CBBC7DECF7D9163250FA57C0CEB&profile=pass
+#EXTINF:-1 tvg-id="da0dca2bac4f26fe0ea095729fc47074",RTP 3
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/734662106?ticket=DFB65234C156503BBBB633C3A26EB710FE93E20E&profile=pass
+#EXTINF:-1 tvg-id="60a87627cb2e3fb79906f39c62097db9",RTP A�ores
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/662087776?ticket=24E09D7E60C8A957AD5690F2421242A75A8FDAF4&profile=pass
+#EXTINF:-1 tvg-id="1a46eed0679be8db751e747517dd3078",RTP Madeira
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1357792794?ticket=2BBC35DCF4384CEC9C575464A5B7C8E4371D8B96&profile=pass
+#EXTINF:-1 tvg-id="f78e4936bf3207a014e832c36713c7b2",RTP Mem�ria
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/910790391?ticket=2F2CCF7425E3C2FB187ADB859FB641E07E6C3A4E&profile=pass
+#EXTINF:-1 tvg-id="b5019cca580dcc9affd71478f3fa288d",RTP �frica
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1251738037?ticket=822303B17F0746B9E700B8D623A214CF374BEE8C&profile=pass
+#EXTINF:-1 tvg-id="04b8c1cd2740bf72fd9e35eae96fa13c",RTP1
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1304541188?ticket=F998354084A956BF8D34FE5DCB37A40811B9C658&profile=pass
+#EXTINF:-1 tvg-id="e5a472eaede5dc7931b87c11e87d3ca3",RTP2
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1785898213?ticket=CD52EECB82A97FBFE1755C86AF6B3B7EC7137609&profile=pass
+#EXTINF:-1 tvg-id="e700c756ee677bf70b7e270e01ea7db9",RTP3
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1455882471?ticket=3CBE6773E39AB3DAFA07C5DE1ACB20AA0D036A94&profile=pass
+#EXTINF:-1 tvg-id="31652c40e271ffdc4e3e0cd74dd54aa1",SIC
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1076651313?ticket=3EDF78D63ED0655565D9A942671CE67724FFB32F&profile=pass
+#EXTINF:-1 tvg-id="d0d9721bd2178bdaafcb7299bae8504e",SIC Caras
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/460511696?ticket=68297808CAB6EC26D273EF191693161DB8250877&profile=pass
+#EXTINF:-1 tvg-id="82385f65946c69702d18a78779d14388",SIC HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1700739202?ticket=DFA50C004A9BD98C948CE52664E1575E388D3C6C&profile=pass
+#EXTINF:-1 tvg-id="98e937db8d642a8b6ad86e2e22f34c64",SIC K
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1530390936?ticket=B3441889DCE04C71D1909BC70ABB3626F474CB78&profile=pass
+#EXTINF:-1 tvg-id="a1c6bac94d00f21eb70aca30829dfbc0",SIC Mulher
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1236977313?ticket=289943D161110E22B415F44111715184DB9163F0&profile=pass
+#EXTINF:-1 tvg-id="dcc97b71e50a26197018747cdb690307",SIC Not�cias
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1903938012?ticket=5CDCBEA15EBB3E1F8288F3C0FE52133B2B5DC63F&profile=pass
+#EXTINF:-1 tvg-id="fa26e31fd0ce1b3ea555be57a2005a8d",SIC Radical
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/534980346?ticket=2DA7908CDA25F333A12C5B4DDD45D302948CD11E&profile=pass
+#EXTINF:-1 tvg-id="81ade3195dafefa2d3159ad21fbb8b9d",SKY News
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/434351489?ticket=91B3DABF58FFE1CB1C2E1D72AC414681E0A905FB&profile=pass
+#EXTINF:-1 tvg-id="90c5a7ebc2fcd2d345ea468fa3537253",SPORT TV +
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1806157200?ticket=145BB287F9748A5ECB23E361A372C13DEA479C79&profile=pass
+#EXTINF:-1 tvg-id="7e4c442b23f7e3cd8b99056731798e33",Sport TV 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/725896318?ticket=C66C32426EE16F0763D400216942A1B67C179BC0&profile=pass
+#EXTINF:-1 tvg-id="62bbdf7748f30b7dab838b3f69b92494",SPORT TV 1 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2011151202?ticket=065DBA3AEF7E2C072C7CCDDAC6ADDF749E6C4CCF&profile=pass
+#EXTINF:-1 tvg-id="e43b123a5e643f93c5bf7268b4feb059",SPORT TV 2 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/974273508?ticket=A759DB398620A1ACF09602281AB083C4F61CE6AF&profile=pass
+#EXTINF:-1 tvg-id="d6c5cce0cb3df4485f69339e05593371",Sport TV 2 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1624032726?ticket=520C9CA4632EFB16D5074D3CCD37F77FB3C4DFC1&profile=pass
+#EXTINF:-1 tvg-id="00a2d13e6649452d9ed7019d58a5894f",SPORT TV 3 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1053925888?ticket=D97545428D46BF6B5A652ABBFF895CE5FECE104D&profile=pass
+#EXTINF:-1 tvg-id="4db2b88bd40573f303104c807323cfad",Sport TV 4 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/196653645?ticket=CBDB21E8D8162B7C8F07E9E5917059E560E254D6&profile=pass
+#EXTINF:-1 tvg-id="706f7dd24319644a894cafbf5d2c3a9d",SPORT TV 4 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1383952240?ticket=EB9A893EBB30476EB1078478F46B42DB7ED8D4A4&profile=pass
+#EXTINF:-1 tvg-id="a0bca3701a6edbabe2d7c56cd9a3d4ea",Sport TV 5 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1889778848?ticket=B49F39EF67DEE5BE2FF4E8987E7FE01B50A4B53D&profile=pass
+#EXTINF:-1 tvg-id="e2e212154d750050152b5542dd992df0",Sport TV 6 HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/353559266?ticket=A1AA066438A1949F68E63FD7D38F681E2DE769D9&profile=pass
+#EXTINF:-1 tvg-id="cf1d7bd086f4b77529daf72c73568c81",Sport TV NBA
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1350245839?ticket=F290B6263AE3DC0D719D4D1906352ED4CED8BA0F&profile=pass
+#EXTINF:-1 tvg-id="5b1ed8e20beef91c47b19513ba518d98",SPORT TV+
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1658330715?ticket=28A8A2327C3A3DEFF359F890BE278939DA98F553&profile=pass
+#EXTINF:-1 tvg-id="16ffd7cb0b794f89ac83b15b97314396",Sporting TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1272446742?ticket=4739C7155A6CC9B7726978638DDCBF0F1197C8A4&profile=pass
+#EXTINF:-1 tvg-id="bf9533b095be253b47c4680844217633",SyFy
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/808687039?ticket=96FEDA9C9009E6AD73493AAB5135392CB9EB7F5D&profile=pass
+#EXTINF:-1 tvg-id="bb3dd678889d5bc26fb2a6f2c771bdb8",SYFY
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2027306427?ticket=DD89409B9CE1E797C8E9C0871E76F65981332D5B&profile=pass
+#EXTINF:-1 tvg-id="e07d1b9d280ae2862ca4f4b4f4927629",TLC
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/488340960?ticket=B20207C29DBF96F23F35478A9C553F2FDF4BF5BB&profile=pass
+#EXTINF:-1 tvg-id="d7ecdbf1a99e58c38c23ef970ddc531f",Toros TV
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1910238423?ticket=9C43B4F38BE588CEDB6826D217528C4E75111B8D&profile=pass
+#EXTINF:-1 tvg-id="0c60cbaf7d23f4ce263bff75de47cd0c",Trace Toca
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/801857548?ticket=FD40F054303A40FD6D5809AA41619A09CB874AC2&profile=pass
+#EXTINF:-1 tvg-id="927c0ce55485c153f8679823d47f2d91",Trace Urban
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1695317138?ticket=9ECF12F49E3310CAFC3DDA74584AAB712B4C17C8&profile=pass
+#EXTINF:-1 tvg-id="f27a5da45b92edd70e2f8eb1a42a014c",Travel Channel HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/610106098?ticket=445F1825F333598A1D60438B21C7EC2D11EC174A&profile=pass
+#EXTINF:-1 tvg-id="4a2855d09f5213308bbe271cba30483c",TSF
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1347758154?ticket=120182D09645A458C901CF9A3BF05BE0D1AC48E9&profile=pass
+#EXTINF:-1 tvg-id="99438d3412e5dd463418139490c7f121",TV Cine Action HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/881673113?ticket=E283735931F68E0ECB3530E8A957514BABC63882&profile=pass
+#EXTINF:-1 tvg-id="443511159a917af194db7105beac0753",TV Cine Edition HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/353449284?ticket=C9230E3CEBD27B498B5F2E57B163A37731676AD4&profile=pass
+#EXTINF:-1 tvg-id="62acc4788e67aa7eb66008621f314dbd",TV Cine Emotion HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2026155106?ticket=611C4C211BAC102576915AA3638447BF381A1829&profile=pass
+#EXTINF:-1 tvg-id="a710d841c03982eb8ec8614e76491545",TV Cine Top HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1104679079?ticket=85EC7E26E856306F124BF16E32252CAEB5ADB484&profile=pass
+#EXTINF:-1 tvg-id="eb1cdb1cedca746dced220be49a0d9b6",TV Galicia
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/484121835?ticket=206BAA5B0B5225D4571B7D142A353C9211B9F84A&profile=pass
+#EXTINF:-1 tvg-id="7aa4b1d7d4aa8b71e80427bab509d3ad",TV Record
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1471259770?ticket=230C6050EFC65A5E0D702D94872FC28AF45DD9EE&profile=pass
+#EXTINF:-1 tvg-id="1da580e36ef35a6a1eeec0887230ed06",TV5 Monde
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1669375261?ticket=5DD36DF2F24360C0901E6596C6E5083D75790235&profile=pass
+#EXTINF:-1 tvg-id="02eeec55b4c52a828b030e73686cd14b",TVCine ACTION HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1441590786?ticket=1D4722AC8EE44E56C120CFD8D78872817CEA9D57&profile=pass
+#EXTINF:-1 tvg-id="620f703122499540d0835b5c662b02f9",TVCine EDITION HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/829427554?ticket=0C5B178291EF8C57814C6A136F99211D818BD4E7&profile=pass
+#EXTINF:-1 tvg-id="f598f9d1547248d2fd4b3c13c60d5183",TVCine EMOTION HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1375312117?ticket=89E2B540DD487722A6B643D3588A33FC1D69ECA0&profile=pass
+#EXTINF:-1 tvg-id="5ffe8afa140e847eb4a9d93649676525",TVCine TOP HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/2055929439?ticket=3D9FE90408BF47DB1815603861E8E2E239416791&profile=pass
+#EXTINF:-1 tvg-id="1762ac3079e482862571553d3e1bd339",TVE 24H
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/816603671?ticket=D6C9C2F85CC24C9CE425DF2F9C83544746F72BC4&profile=pass
+#EXTINF:-1 tvg-id="6c56f433794e1b51b5673602fd1aa526",TVE Internacional
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/871650924?ticket=7FE9829A24ACD168C5B85BEFD2AF13879CA0AB1F&profile=pass
+#EXTINF:-1 tvg-id="884858e4a8a2fc218646025f36c6183d",TVEi
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1683507336?ticket=0DA8673320B5CA122BA36F2A91A2FB5841E87BE7&profile=pass
+#EXTINF:-1 tvg-id="8dbd3652380f8ba41cf482b968aabdc8",TVI
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1379319181?ticket=4460C58C57AAFA5F69454338CE9F6C61FCA74C8C&profile=pass
+#EXTINF:-1 tvg-id="bf0f2d181b775987ba0f13ae245ca035",TVI Fic��o
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/405606335?ticket=1DEE23FDA3114CF855648FD5CD752C3E4FA58BF2&profile=pass
+#EXTINF:-1 tvg-id="16ed294ef8d00f78e4b793f1d150514e",TVI HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1311370518?ticket=3015A987668B01D4B4C891C5502E656E407C7AE2&profile=pass
+#EXTINF:-1 tvg-id="925e12ade3bd06a4f59b65c7576cede7",TVI Reality
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/756178578?ticket=AD60F55A1805CCC32EEB015EF4A52CE014079447&profile=pass
+#EXTINF:-1 tvg-id="43ecea4eb8ee48f6b1792590720a2912",Venus
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/1324018755?ticket=B39261B3F4083319171733D4354C8C381977AAC3&profile=pass
+#EXTINF:-1 tvg-id="f3c1022ddc7ebf45cd5b8c295be7d3e8",ZAP Viva HD
+http://admin:tv@iptvserverpt.ddns.net:16388/stream/channelid/755155443?ticket=C1FDDB6E8C1DBDED7D8750018EA3269BA8D5DD4D&profile=pass
